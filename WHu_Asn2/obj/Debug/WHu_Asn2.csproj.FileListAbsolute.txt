@@ -1,0 +1,9 @@
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\bin\Debug\WHu_Asn2.exe.config
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\bin\Debug\WHu_Asn2.exe
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\bin\Debug\WHu_Asn2.pdb
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.csprojResolveAssemblyReference.cache
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.Properties.Resources.resources
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.GenerateResource.Cache
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.CoreCompileInputs.cache
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.exe
+C:\Users\Planetarium\Desktop\BCIT\Term4\COMP4560\WHu_Asn2\WHu_Asn2\obj\Debug\WHu_Asn2.pdb
