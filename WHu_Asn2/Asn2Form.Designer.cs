@@ -8,8 +8,8 @@ namespace WHu_Asn2
 {
     class Asn2Form : Form
     {
-        static int squareWidth = 10;
-        static int channelWidth = 15;
+        static int squareWidth = 30;
+        static int channelWidth = 10;
         static int borderWidth = 2 * squareWidth + channelWidth;
         static Boolean wat = false;
 
@@ -46,15 +46,15 @@ namespace WHu_Asn2
             int cy = borderWidth;
 
 
-            while (cy < (ClientSize.Height - borderWidth))
+            while ((cy + squareWidth) < (ClientSize.Height - borderWidth))
             {
-                while (cx < (ClientSize.Width - borderWidth))
+                while ((cx + squareWidth) < (ClientSize.Width - borderWidth))
                 {
                     grfx.FillRectangle(brush, cx, cy, squareWidth, squareWidth);
                     grfx.FillRectangle(brush, midX - squareWidth - (cx - midX), cy, squareWidth, squareWidth);
-                    cx += channelWidth;
+                    cx += (channelWidth + squareWidth);
                 }
-                cy += channelWidth;
+                cy += (channelWidth + squareWidth);
                 cx = midX;
             }
         }

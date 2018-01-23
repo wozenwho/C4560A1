@@ -16,3 +16,12 @@ C:\Users\Werz\Desktop\Term4\C4560\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.Gen
 C:\Users\Werz\Desktop\Term4\C4560\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.CoreCompileInputs.cache
 C:\Users\Werz\Desktop\Term4\C4560\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.exe
 C:\Users\Werz\Desktop\Term4\C4560\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.pdb
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\bin\Debug\WHu_Asn2.exe.config
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\bin\Debug\WHu_Asn2.exe
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\bin\Debug\WHu_Asn2.pdb
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.csprojResolveAssemblyReference.cache
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.Properties.Resources.resources
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.GenerateResource.Cache
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.csproj.CoreCompileInputs.cache
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.exe
+C:\Users\A00985710\Desktop\C4560A1\WHu_Asn2\obj\Debug\WHu_Asn2.pdb
